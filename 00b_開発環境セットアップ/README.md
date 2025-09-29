@@ -18,7 +18,7 @@
 
 ![](materials/Pasted%20image%2020250929091931.png)  図4
 
-![[materials/Pasted%20image%20250929113848.png]]  図5
+![](materials/Pasted%20image%20250929113848.png)  図5
 
 ![](materials/Pasted%20image%2020250929093845.png)  図6 （コピペ用：`C:\Library\Nand2Tetris\nand2tetris\tools`）
 
